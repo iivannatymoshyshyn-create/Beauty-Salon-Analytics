@@ -1,5 +1,7 @@
 # Beauty Studio Customer Segmentation & Loyalty Analytics
 
+🔗 **[View Interactive Google Sheets Project](https://docs.google.com/spreadsheets/d/1N7BseX_32_P9PIgPA8d9tQbpzDtCYNuZIaQk6qnW_tU/edit?usp=sharing)**
+
 ## 📌 Project Overview
 This project focuses on customer segmentation and loyalty tracking for a beauty salon operations dataset. The goal is to analyze customer purchase frequency, total spending, and visit patterns to group clients into distinct loyalty tiers and enable data-driven retention strategies.
 
